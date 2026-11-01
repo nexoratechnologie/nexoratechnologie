@@ -102,8 +102,7 @@ Our current service areas include:
 Have a project enquiry, need information about our services, or want to know more about our internship programmes? Contact us.
 
 - 🌐 **Website:** [https://nexoratechnologie.in](https://nexoratechnologie.in)
-- 📧 **Email:** [Support@necxoratechnologie.in](mailto:Support@necxoratechnologie.in)
-- 📞 **Phone:** [+91 88590 54605](tel:+918859054605)
+- 📧 **Email:** [Support@necxoratechnologie.in](mailto:info@necxoratechnologie.in)
 - 📍 **Location:** Bareilly, Uttar Pradesh, India
 
 ---
