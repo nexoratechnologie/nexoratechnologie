@@ -1,4 +1,4 @@
-<h1 align="center">🚀 NEXORA TECHNOLOGIES</h1>
+<h1 align="center">NEXORA TECHNOLOGIES</h1>
 <h3 align="center">Software Development | Web Development | Hardware Solutions | Internship Programmes</h3>
 
 <p align="center">
