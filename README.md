@@ -9,8 +9,6 @@ Building practical technology solutions and creating opportunities to learn, dev
 
 ## 🏢 About Us
 
-**Nexora Technologies** is a technology services partnership based in **Bareilly, Uttar Pradesh, India**.
-
 We work across software development, web development, and hardware solutions. Our focus is on understanding requirements, taking a practical approach to challenges, and developing solutions that serve a clear purpose.
 
 We also believe that technology grows stronger when people get the opportunity to learn and build through experience. That is why we offer internship programmes for students and freshers who want to develop their skills through guided, project-based learning.
